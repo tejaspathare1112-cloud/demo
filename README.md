@@ -1,2 +1,2 @@
 # demo
-demo for practice.
+demo for practice purpose.
